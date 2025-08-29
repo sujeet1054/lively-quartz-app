@@ -55,17 +55,17 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biophysics
+    institution: Indian Institute of Science (IISc) Bengaluru
+    date_start: 2016-08-01
+    date_end: 2023-10-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BS-MS Physics
+    institution: Indian Institute of Science Education and Research (IISER), Kolkata
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
