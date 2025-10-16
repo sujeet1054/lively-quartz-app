@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳健雄
+
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sujeet Kumar
+last_name: Choudhary
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/his
 
 # Status emoji
 status:
@@ -23,53 +23,54 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Mediterranean Institute for Advanced Studies (IMEDEA, UIB-CSIC)
+    url: https://imedea.uib-csic.es/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sujeet@imdedea.uib-csic.es'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: [https://x.com/sujeetk28](https://x.com/sujeetk28)
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: [https://github.com/sujeet1054](https://github.com/sujeet1054)
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/sujeetk-choudhary
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: [Google Scholar](https://scholar.google.com/citations?user=5dXy0JcAAAAJ&hl=en)
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: [ORCID](https://orcid.org/0009-0000-6677-0604)
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biophysics
+  - Flegellar dynamics
+  - Active Matter
+  - Soft Matter
 
 education:
-  - area: PhD Biophysics
+  - area: PhD Physics
     institution: Indian Institute of Science (IISc) Bengaluru
     date_start: 2016-08-01
     date_end: 2023-10-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Collective Phototaxis of Chlamydomonas reinhardtii Cells_. Supervised by [Prof Prerna Sharma](https://sites.google.com/site/biocolloids/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://etd.iisc.ac.in/handle/2005/6290'
   - area: BS-MS Physics
     institution: Indian Institute of Science Education and Research (IISER), Kolkata
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+     
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -80,7 +81,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
