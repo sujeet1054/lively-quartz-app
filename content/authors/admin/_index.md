@@ -62,7 +62,7 @@ education:
     date_start: 2016-08-01
     date_end: 2023-10-31
     summary: |
-      Thesis on _Collective Phototaxis of Chlamydomonas reinhardtii Cells_. Supervised by [Prof Prerna Sharma](https://sites.google.com/site/biocolloids/). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Collective Phototaxis of Chlamydomonas reinhardtii Cells_. Supervised by [Prof Prerna Sharma](https://sites.google.com/site/biocolloids/).
     button:
       text: 'Read Thesis'
       url: 'https://etd.iisc.ac.in/handle/2005/6290'
