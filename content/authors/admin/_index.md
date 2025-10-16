@@ -34,18 +34,22 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
+    url: 'mailto:sujeet@imdedea.uib-csic.es'
+    label: E-mail Me
   - icon: brands/x
-    url: [https://x.com/sujeetk28](https://x.com/sujeetk28)
+    url: 'https://x.com/sujeetk28'
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 'https://www.instagram.com/'
   - icon: brands/github
-    url: [https://github.com/sujeet1054](https://github.com/sujeet1054)
+    url: 'https://github.com/sujeet1054'
   - icon: brands/linkedin
-    url: www.linkedin.com/in/sujeetk-choudhary
+    url: 'https://www.linkedin.com/in/sujeetk-choudhary'
   - icon: academicons/google-scholar
-    url: [Google Scholar](https://scholar.google.com/citations?user=5dXy0JcAAAAJ&hl=en)
+    url: 'https://scholar.google.com/citations?user=5dXy0JcAAAAJ&hl=en'
   - icon: academicons/orcid
-    url: [ORCID](https://orcid.org/0009-0000-6677-0604)
+    url: 'https://orcid.org/0009-0000-6677-0604'
+
+
 
 interests:
   - Biophysics
