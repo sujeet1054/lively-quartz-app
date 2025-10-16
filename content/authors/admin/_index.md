@@ -34,7 +34,6 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sujeet@imdedea.uib-csic.es'
   - icon: brands/x
     url: [https://x.com/sujeetk28](https://x.com/sujeetk28)
   - icon: brands/instagram
