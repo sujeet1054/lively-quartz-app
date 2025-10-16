@@ -35,7 +35,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:sujeet@imdedea.uib-csic.es'
-    label: Email me
   - icon: brands/x
     url: [https://x.com/sujeetk28](https://x.com/sujeetk28)
   - icon: brands/instagram
